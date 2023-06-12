@@ -1,0 +1,19 @@
+.planet-img {
+  width: 400px;
+}
+
+.heading {
+  color: #05acff;
+  font-weight: bold;
+  text-align: center;
+}
+
+.color-font {
+  color: #ffffff;
+  text-align: center;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+}
